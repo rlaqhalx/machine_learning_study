@@ -33,6 +33,8 @@
         - Majority voting
 
 - Deep Learning
+    - MLP
+    - Deep feed forward (DFF)
     - Activation function: Relu for hidden layers
     - Activation function: Sigmoid - binary & Softmax - multinomial for output layer
     - Keras Functional API
