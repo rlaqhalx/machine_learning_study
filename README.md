@@ -46,4 +46,19 @@
     - Ensemble
     - Learning rate decay (Learning rate schedules)
         - tf.keras.callbacks.LearningRateScheduler() & tf.keras.callbacks.ReduceLROnPlateau()
-  
+
+-  Neural Network
+      - Convolutional Neural Networks (CNN)
+        - Convolution layer, Pooling layer, Flatten layer, Dense (fully connected) layer
+      - Recurrent Neural Networks (RNN)
+      - Generative Adversarial Network (GAN)
+- Data Generator
+- Image augmentation & preprocess
+- Transfer Learning
+      - Inception V3
+          -  Inception module
+      - ResNet
+          - Residual block
+              - Shortcut=Skip connection)
+              - To solve gradient vanishing
+
