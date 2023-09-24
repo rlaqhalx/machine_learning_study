@@ -54,11 +54,11 @@
       - Generative Adversarial Network (GAN)
 - Data Generator
 - Image augmentation & preprocess
-- Transfer Learning
+
+-  Transfer Learning
       - Inception V3
-          -  Inception module
+        - Inception module
       - ResNet
-          - Residual block
-              - Shortcut=Skip connection)
-              - To solve gradient vanishing
+        - Shortcut=Skip connection)
+        - To solve gradient vanishing
 
