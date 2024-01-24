@@ -32,6 +32,10 @@
     -  Random forest
         - Majority voting
 
+
+![ml_map](https://github.com/rlaqhalx/machine_learning_study/assets/77920302/861a6501-31dd-4b37-9ff6-225a12db32be)
+
+
 - Deep Learning
     - MLP
     - Deep feed forward (DFF)
@@ -61,6 +65,4 @@
       - ResNet
         - Shortcut=Skip connection)
         - To solve gradient vanishing
-
-![ml_map](https://github.com/rlaqhalx/machine_learning_study/assets/77920302/861a6501-31dd-4b37-9ff6-225a12db32be)
 
